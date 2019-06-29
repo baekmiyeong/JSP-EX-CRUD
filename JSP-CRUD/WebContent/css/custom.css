@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothics.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+*{
+	font-family: 'Nanum Gothic';
+}
+
+//본문은 나눔고딕 제목은 한나 글씨체
+
+h1 {
+	font-family: 'Hanna';
+}
