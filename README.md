@@ -9,4 +9,4 @@ Mysql 8.0.16<br>
 Apache tomcat 8.0<br>
 
 ##
-![main](./Users/kiminju/Documents/GitHub/JSP-EX-CRUD/JSP-CRUD/screenshot/main.png)
+![main](./screenshot/main.png)
