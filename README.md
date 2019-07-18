@@ -8,20 +8,20 @@ JDK 1.8<br>
 Mysql 8.0.16<br>
 Apache tomcat 8.0<br>
 
-## Main Page<br>
+## Main Page
 ![main](./JSP-CRUD/screenshot/main.png)<br>
 
-## Sign Page<br>
-![main](./JSP-CRUD/screenshot/login.gif)<br>
+## Sign Page
+![sign](./JSP-CRUD/screenshot/sign.gif)<br>
 
 - 会員加入ページ
 - 空いているところや重複があったらメッセージ出力
 
 ## Login 
-![main](./JSP-CRUD/screenshot/sign.gif)<br>
+![login](./JSP-CRUD/screenshot/login.gif)<br>
 
 
 ## Update , Delete...
-![main](./JSP-CRUD/screenshot/save-delete.gif)<br>
+![save-delete](./JSP-CRUD/screenshot/save-delete.gif)<br>
 
 
