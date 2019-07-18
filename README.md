@@ -14,14 +14,19 @@ Apache tomcat 8.0<br>
 ## Sign Page
 ![sign](./JSP-CRUD/screenshot/sign.gif)<br>
 
-- 会員加入ページ
-- 空いているところや重複があったらメッセージ出力
+- 会員加入及びDB確認
 
-## Login 
+
+## Login , ID Check
 ![login](./JSP-CRUD/screenshot/login.gif)<br>
 
+- 空いているところや重複があったらメッセージ出力
 
 ## Update , Delete...
 ![save-delete](./JSP-CRUD/screenshot/save-delete.gif)<br>
 
+- 私が書いた文だけ削除修正可能
+- 特殊文字可能
+- ページの掲示物数10個
+- ボタン活性化
 
