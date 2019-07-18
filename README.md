@@ -12,13 +12,13 @@ Apache tomcat 8.0<br>
 ![main](./JSP-CRUD/screenshot/main.png)<br>
 
 ## Sign Page<br>
-![main](./JSP-CRUD/screenshot/sign.gif)<br>
+![main](./JSP-CRUD/screenshot/login.gif)<br>
 
 - 会員加入ページ
 - 空いているところや重複があったらメッセージ出力
 
 ## Login 
-![main](./JSP-CRUD/screenshot/login.gif)<br>
+![main](./JSP-CRUD/screenshot/sign.gif)<br>
 
 
 ## Update , Delete...
